@@ -1,1 +1,1 @@
-my first readme file
+Data Analytics and Visualisation for Python Project
